@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgimg"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.nirzhar.tourmate.WeatherActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="205dp"
+
+        android:layout_margin="8dp"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.10">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_location_city_black_24dp"/>
+
+        <TextView
+            android:id="@+id/summury"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sunny"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/hightemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="high Temparature"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/lowTemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lowest Temparature"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/curentTemp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="72 \u00B0 "
+            android:textSize="100dp"
+            android:textStyle="normal"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

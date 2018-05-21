@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "135651671738",
+    "firebase_url": "https://my-application-ceeeb.firebaseio.com",
+    "project_id": "my-application-ceeeb",
+    "storage_bucket": "my-application-ceeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135651671738:android:9f189d0e7f80a2b1",
+        "android_client_info": {
+          "package_name": "nirzhar.fahim.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135651671738-5qgp617sfbrg7uqmmd52j412go1mknub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJdbajE7O7XOk0EzwFkflNZP1HGcQC66w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135651671738:android:27b18e65858843d7",
+        "android_client_info": {
+          "package_name": "com.example.mobileappdevelop.android_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135651671738-0hr7beq1fracv7jvd7kn4f8c1em3ckon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileappdevelop.android_firebase",
+            "certificate_hash": "eb9b164df72385ab0fa317373bdfe7196a2a9166"
+          }
+        },
+        {
+          "client_id": "135651671738-5qgp617sfbrg7uqmmd52j412go1mknub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJdbajE7O7XOk0EzwFkflNZP1HGcQC66w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135651671738-5qgp617sfbrg7uqmmd52j412go1mknub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135651671738:android:489afd3da8444db8",
+        "android_client_info": {
+          "package_name": "com.example.nirzhar.tourmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135651671738-3gkbm8br56p4r5vr80omipfvvhbqp3nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirzhar.tourmate",
+            "certificate_hash": "6837d6abd5c7137336405518cadf1c545bdaa812"
+          }
+        },
+        {
+          "client_id": "135651671738-5qgp617sfbrg7uqmmd52j412go1mknub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJdbajE7O7XOk0EzwFkflNZP1HGcQC66w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135651671738-5qgp617sfbrg7uqmmd52j412go1mknub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tourmate</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="cityadd">Add City</string>
+    <string name="tdHint">Travel Destination</string>
+    <string name="ebHint">Estimated Budget in TK</string>
+    <string name="fdHint">From Date</string>
+    <string name="todHint">To Date</string>
+    <string name="eventBtn">Create Event</string>
+    <string name="desName">Dhaka</string>
+    <string name="estBudget">Est Budget : </string>
+    <string name="expenseDetails">Expense Details</string>
+    <string name="expenseAmount">Expense Amount in TK</string>
+</resources>
