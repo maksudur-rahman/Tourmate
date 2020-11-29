@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#afeeee</color>
+    <color name="colorPrimaryDark">#40e0d0</color>
+    <color name="colorAccent">#98fb98</color>
+    <color name="colorDarker">#00fa9a</color>
+    <color name="colorLighter">#00ffff</color>
     <color name="transparent">#00ffffff</color>
     <color name="black">#000</color>
     <color name="orange">#FA0</color>
@@ -16,4 +18,12 @@
     <color name="purple">#9932CC</color>
     <color name="deepblue">#00bfff</color>
     <color name="yellow">#FFCC33</color>
+    <color name="buton">#9b0c3b</color>
+    <color name="losi">#36012c</color>
+    <color name="deepPurple1">#311B92</color>
+    <color name="deepPurple2">#512DA8</color>
+    <color name="deepPurple3">#673AB7</color>
+    <color name="deepPurple4">#9575CD</color>
+    <color name="deepPurple5">#D1C4E9</color>
+    <color name="background">#e7e7a9</color>
 </resources>
